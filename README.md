@@ -1,12 +1,10 @@
 # Awesome Multi Hop Question Answering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![cc](https://github.com/coree/awesome-multi-hop-qa/assets/)
-
 A curated list of Multi Hop Question Answering.
 
 *Suggest and discuss possible enhancements on the [Potential Additions](https://github.com/owj0421/awesome-multi-hop-qa/discussions/1) page.*
 
-**Table of Content:**
+## Table of Content
 - [Awesome Multi Hop Question Answering](#awesome-multi-hop-qa)
   - [Papers](#papers)
     - [Survey](#survey)
