@@ -1,14 +1,13 @@
-# Awesome Multi-hop QA
-A curated list of Multi-hop Question Answering (Multi-hop QA).
-*Suggest and discuss possible enhancements on the [Potential Additions](https://github.com/owj0421/awesome-multi-hop-qa/discussions/1) page.*
-
+# Awesome Multi Hop Question Answering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![cc](https://github.com/coree/awesome-multi-hop-qa/assets/)
 
+A curated list of Multi Hop Question Answering.
 
+*Suggest and discuss possible enhancements on the [Potential Additions](https://github.com/owj0421/awesome-multi-hop-qa/discussions/1) page.*
 
 **Table of Content:**
-- [Awesome Multi-hop QA](#awesome-multi-ho-qa)
+- [Awesome Multi Hop Question Answering](#awesome-multi-hop-qa)
   - [Papers](#papers)
     - [Survey](#survey)
     - [Retrieval Augmented Generation(RAG)](#retrieval-augmented-generation)
@@ -133,3 +132,18 @@ A curated list of Multi-hop Question Answering (Multi-hop QA).
 - **UT Austin CS388: Natural Language Processing**  
   *Author*  
   [`Greg Durrett`](https://www.youtube.com/watch?v=jpRwa2iE_z8)
+
+
+# Contributing
+
+We appreciate your interest in contributing to this project! 🚀
+
+This is an active repository, and we welcome all contributions. If you’re interested in improving Multi-hop QA, feel free to submit a pull request!
+
+Some pull requests may remain open if we’re unsure whether they are a great fit for the project. You can help by voting for them with a 👍 reaction.
+
+Thank you for your support! 💡✨
+
+---
+
+If you have any question about this awesome-list, do not hesitate to contact me owj0421@korea.ac.kr
