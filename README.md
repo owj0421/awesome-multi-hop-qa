@@ -1,6 +1,6 @@
 # Awesome Multi-hop QA
 A curated list of Multi-hop Question Answering (Multi-hop QA).
-*Suggest and discuss possible enhancements on the [Potential Additions](https://github.com/coree/awesome-rag/discussions/1) page.*
+*Suggest and discuss possible enhancements on the [Potential Additions](https://github.com/owj0421/awesome-multi-hop-qa/discussions/1) page.*
 
 
 ![cc](https://github.com/coree/awesome-multi-hop-qa/assets/)
