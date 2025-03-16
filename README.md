@@ -60,6 +60,9 @@ A curated list of Multi Hop Question Answering.
 - **[MCR] Answering Questions by Meta-Reasoning over Multiple Chains of Thought**  
   [`Paper`](https://arxiv.org/abs/2304.13007) `EMNLP 2023`
 
+- **[FLARE] Active Retrieval Augmented Generation**  
+  [`Paper`](https://aclanthology.org/2023.emnlp-main.495/) `EMNLP 2023`
+
 - **[Iter-RetGen] Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**  
   [`Paper`](https://arxiv.org/abs/2305.15294) `EMNLP Findings 2023`
 
