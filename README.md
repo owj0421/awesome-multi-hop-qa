@@ -1,11 +1,11 @@
-# Awesome Multi Hop Question Answering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Multi Hop RAG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of Multi Hop Question Answering.
+A curated list of Multi Hop Retrieval Augmented Generation Systems.
 
 *Suggest and discuss possible enhancements on the [Potential Additions](https://github.com/owj0421/awesome-multi-hop-qa/discussions/1) page.*
 
 ## Table of Content
-- [Awesome Multi Hop Question Answering](#awesome-multi-hop-qa)
+- [Awesome Multi Hop RAG](#awesome-multi-hop-qa)
   - [Papers](#papers)
     - [Survey](#survey)
     - [Retrieval Augmented Generation(RAG)](#retrieval-augmented-generation)
